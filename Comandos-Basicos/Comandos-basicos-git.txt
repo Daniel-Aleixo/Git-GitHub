@@ -1,0 +1,37 @@
+	• cd nome da pasta –-> entrar na pasta
+	
+	• cd .. --> volta para pasta anterior
+	
+	• mkdir nome da pasta --> cria uma pasta
+	
+	• rm -rf nome --> apaga pasta ou arquivo
+	
+	• clear –-> limpa o terminal
+	
+	• ls --> mostra arquivos na pasta
+	
+	• ls -a --> mostra todos os arquivos na pasta até os ocultos
+	
+	• ssh-keygen -t ed25519 -C email --> criar um email de usuário
+	
+	• cat id_ed25519.pub --> ler o id público criado para colocar no github
+	
+	• eval $(ssh-agent -s) --> instalar o id no pc
+	
+	• git clone + repositorio --> Clona o repositório do GitHub  
+	
+	• git config --global user.email email-usuario --> configuração do usuario do git recomendado usar o mesmo do github
+	 
+	• git config --global user.name nome-do-usuario –-> nome do usuario git recomendado usar o mesmo do github
+	
+	• git init –-> inicia o git pasta
+	 
+	• git add * –-> adiciona as mudanças dos arquivos/pasta no git
+	
+	• git commit  -m "mensagem" – finaliza a operação de adição do arquivo -m é para acionar um titulo ao commit
+	
+	• git push origin nome-da-bransh –-> envia os arquivos para o github
+	
+	• git pull origin nome-da-bransh --> copia os arquivos para o github
+	
+	. git status – mostra o status do git
