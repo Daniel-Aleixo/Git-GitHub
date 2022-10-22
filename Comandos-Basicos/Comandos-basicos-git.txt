@@ -1,3 +1,5 @@
+Aqui será mostrado alguns comandos básicos para se utilizar no terminal e para configurar o git
+
 	• cd nome da pasta –-> entrar na pasta
 	
 	• cd .. --> volta para pasta anterior

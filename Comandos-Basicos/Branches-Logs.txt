@@ -1,0 +1,44 @@
+Aqui será mostrado alguns comando para se utilizar com branches e logs
+
+	
+git checkout nome-da-branch --> o comando muda para branch 
+
+git checkout -b nome-da-branch --> o comando muda para branch e cria uma nova
+
+git merge nome-da-branch --> junta as branch
+
+git branch --> mostra qual branch está atualmente
+
+git branch -m nome-da-branch --> renomeia a branch que você está 
+
+git branch -d nome-da-branch --> deleta a branch
+
+git stash save "texto breve" --> salva os arquivos em uma pasta temporária
+
+git stash pop --> restaura os arquivos salos temporariamente
+
+git stash list --> lista todos os arquivos salvos temporariamente
+
+git stash clear --> apaga todos arquivos temporarios
+
+git log --> mostra o historico completo de commits
+
+git log nome-da-pasta --> mostra historico da pasta
+
+git log nome-do-arquivo --> mostra historico do arquivo
+
+git log --oneline nome-do-arquivo --> mostra historico do arquivo em 1 linha
+
+git log --graph nome-do-arquiv --> mostra o historico em gráfico
+
+git k -->
+
+git reset sha1 ou head -->
+
+git reset --soft -->
+
+git reset --mixed -->
+
+git reset --hard -->
+
+git reverse -->
