@@ -37,3 +37,8 @@ Aqui será mostrado alguns comandos básicos para se utilizar no terminal e para
 	• git pull origin nome-da-bransh --> copia os arquivos para o github
 	
 	. git status – mostra o status do git
+	
+	• git fetch --> analisa os arquivos do git e github para ver se tem diferença
+	
+	• git pull --> atualiza o git com as informações do github
+	
